@@ -39,7 +39,7 @@ button
     border-radius: 8px;
     width: 48%;
     height:5vw;
-    font-size: 10vh;
+    font-size: 10vw;
    
 }
 .a1
@@ -49,4 +49,5 @@ button
 .a2
 {
     background-color: rgb(34, 33, 33);
+
 }
