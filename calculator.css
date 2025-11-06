@@ -1,0 +1,52 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: black;
+}
+button
+{
+    background-color: gray;
+    color: white;
+    margin: 0.5vw;
+    font-size: 4vw;
+    width: 7vw;
+    height: 7vw;
+    border-radius: 50%;
+    border: none;
+}
+#d1
+{
+    width: 50%;
+}
+#d
+{
+
+    margin-left: 40%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+#display
+{
+    background-color: black;
+    border: none;
+    color: white;
+    padding-left: 20px;
+    border-radius: 8px;
+    width: 48%;
+    height:5vw;
+    font-size: 10vh;
+   
+}
+.a1
+{
+    background-color: rgba(255, 193, 85, 0.932);
+}
+.a2
+{
+    background-color: rgb(34, 33, 33);
+}
